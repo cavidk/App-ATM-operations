@@ -1,1 +1,1 @@
-# ATM app using Java loops
+# ATM app operations - using Java loops
